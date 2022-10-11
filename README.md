@@ -1,2 +1,2 @@
 # PiVisualisation
-short private project. Visualizing digits of Pi in a coloured grid.
+short private PyCharm project. Visualizing digits of Pi in a coloured grid.
